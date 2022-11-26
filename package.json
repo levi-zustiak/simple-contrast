@@ -1,0 +1,21 @@
+{
+  "name": "simple-contrast",
+  "displayName": "Simple Contrast",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Simple Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Simple Contrast-color-theme.json"
+      }
+    ]
+  }
+}

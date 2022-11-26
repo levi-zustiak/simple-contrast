@@ -8,7 +8,6 @@
     "sideBar.foreground": "#ededee",
     "sideBarTitle.foreground": "#ededee",
     "tab.activeBackground": "#2a2a2a",
-    // "tab.activeBorder": "#52a9ff",
     "tab.inactiveBackground": "#141617",
     "tab.border": "#141617",
     "tab.hoverBackground": "#212121",

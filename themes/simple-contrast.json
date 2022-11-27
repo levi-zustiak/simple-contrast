@@ -76,10 +76,7 @@
     },
     {
       "name": "Import Path",
-      "scope": [
-        "meta.import string",
-        "meta.import punctuation.definition.string"
-      ],
+      "scope": ["meta.import string"],
       "settings": {
         "foreground": "#ff5c61"
       }

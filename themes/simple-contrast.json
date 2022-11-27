@@ -207,6 +207,13 @@
       }
     },
     {
+      "name": "Variable Constant",
+      "scope": ["variable.other.constant"],
+      "settings": {
+        "foreground": "#ededee"
+      }
+    },
+    {
       "name": "Variable Object Property",
       "scope": ["variable.other.constant.property"],
       "settings": {
@@ -271,14 +278,14 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#ff5c61"
+        "foreground": "#52a9ff"
       }
     },
     {
       "name": "Attributes",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#ededee"
+        "foreground": "#ff5c61"
       }
     },
     {
@@ -289,7 +296,14 @@
         "meta.tag.attributes variable.other.property"
       ],
       "settings": {
-        "foreground": "#52a9ff"
+        "foreground": "#ededee"
+      }
+    },
+    {
+      "name": "Attribute Value String",
+      "scope": ["meta.tag.attributes string"],
+      "settings": {
+        "foreground": "#ededee"
       }
     },
     {

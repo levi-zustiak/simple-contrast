@@ -24,7 +24,7 @@
       {
         "label": "Simple Contrast",
         "uiTheme": "vs-dark",
-        "path": "./themes/Simple Contrast-color-theme.json"
+        "path": "./themes/simple-contrast.json"
       }
     ]
   }

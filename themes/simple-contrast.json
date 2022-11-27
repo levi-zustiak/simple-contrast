@@ -453,6 +453,13 @@
       }
     },
     {
+      "name": "JSX Children",
+      "scope": ["meta.jsx.children"],
+      "settings": {
+        "foreground": "#ededee"
+      }
+    },
+    {
       "name": "Sub-methods",
       "scope": [
         "entity.name.module.js",
